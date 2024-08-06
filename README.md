@@ -5,10 +5,11 @@
 <div>✅HTML,</div>
 <div>✅CSS, </div>
 <div>✅JavaScript, </div>
-<div>✅React, </div>
+<div>✅React.js,</div>
+<div>✅Next.js,</div>
 <div>✅Redux,</div>
 <div>✅TypeScript,</div>
-<div>✅SASS, ,</div>
+<div>✅SASS,</div>
 <div>✅Tailwind CSS,</div>
 <div>✅Framer Motion &</div>
 <div>✅Figma. </div>
