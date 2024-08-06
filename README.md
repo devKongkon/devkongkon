@@ -1,7 +1,7 @@
 ![](https://media.licdn.com/dms/image/D5616AQGdC2o40Dw2oA/profile-displaybackgroundimage-shrink_350_1400/0/1722950392750?e=1728518400&v=beta&t=QVXEaYZXk1kWTDWFDeWrPxzWuE-eiLtokau1jfVtOJ8)
 
 <div>🚀About Me</div>
-<div>Passionate Frontend Web Developer | Expert in</div>
+<div>Passionate Frontend Web Developer based in Bangladesh | Expert in</div>
 <div>✅HTML,</div>
 <div>✅CSS, </div>
 <div>✅JavaScript, </div>
