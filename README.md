@@ -1,20 +1,22 @@
-![]([https://www.linkedin.com/in/devkongkon/overlay/background-image/))
+![LinkedIn Background Image](https://www.linkedin.com/in/devkongkon/overlay/background-image/)
 
-<div>🚀About Me</div>
-<div>Passionate Frontend Web Developer based in Bangladesh | Expert in</div>
-<div>✅HTML,</div>
-<div>✅CSS, </div>
-<div>✅JavaScript, </div>
-<div>✅React.js,</div>
-<div>✅Next.js,</div>
-<div>✅Redux,</div>
-<div>✅TypeScript,</div>
-<div>✅SASS,</div>
-<div>✅Tailwind CSS,</div>
-<div>✅Framer Motion &</div>
-<div>✅Figma. </div>
+<div>🚀 **About Me**</div>
+<div>Passionate Frontend Web Developer based in Bangladesh | Expert in:</div>
+<ul>
+  <li>✅ HTML</li>
+  <li>✅ CSS</li>
+  <li>✅ JavaScript</li>
+  <li>✅ React.js</li>
+  <li>✅ Next.js</li>
+  <li>✅ Redux</li>
+  <li>✅ TypeScript</li>
+  <li>✅ SASS</li>
+  <li>✅ Tailwind CSS</li>
+  <li>✅ Framer Motion</li>
+  <li>✅ Figma</li>
+</ul>
 
-My focus is on problems solving, latest technologies. Everyday I try my best to keep updated with the latest technologies
+My focus is on problem-solving and staying updated with the latest technologies. Every day, I strive to improve and embrace new advancements in the field.
 
-<div>&#9993; developerkongkon@gmail.com</div>
-<div>visit my portfolio: https://devkongkon.netlify.app/</div>
+<div>📧 [developerkongkon@gmail.com](mailto:developerkongkon@gmail.com)</div>
+<div>Visit my portfolio: [https://devkongkon.netlify.app/](https://devkongkon.netlify.app/)</div>
